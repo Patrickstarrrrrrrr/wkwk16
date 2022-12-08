@@ -1,20 +1,20 @@
 //=============『 Utama 』================== //
-global.owner = ['6287898307350'] 
+global.owner = ['6281536907492'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Gempy⛧⁩⁩'
-global.numberowner = '6287898307350'
+global.nameowner = 'Dian'
+global.numberowner = '6281536907492'
 global.instagram = 'https://www.instagram.com/gmpyyy'
 global.github = 'https://github.com/gmpyyy'
-global.dana = '087898307350'
-global.pulsa = '087898307350'
+global.dana = '085765680162'
+global.pulsa = '081536907492'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'PENTABOT'
-global.gc = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
+global.namebot = 'Azpect-Bot'
+global.gc = 'https://chat.whatsapp.com/EyYi7h3RoWTEyaX1lvrZK1'
 global.web = 'https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ganti ja
 global.fotonya2 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'PENTABOT'
+global.wm = 'Azpect-Bot'
 global.watermark = wm
-global.wm2 = '                     「PENTABOT⁩ 」'
-global.wm3 = 'Gempy⛧'
+global.wm2 = '                     「AZPECT 」'
+global.wm3 = 'Dian'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'Created by'
-global.author = 'Gempy⛧⁩⁩'
+global.author = 'Dian⁩⁩'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
